@@ -1,5 +1,5 @@
 package com.example.camerax
-// https://www.youtube.com/watch?v=12_iKwGIP64&list=WL&index=17&pp=gAQBiAQB
+// https://www.youtube.com/watch?v=eYGQEQnLpnI&list=PLGgmd8TKKuPT-dtgXcCWER_lfmGJXZdnl&index=49
 
 import android.Manifest
 import android.annotation.SuppressLint
